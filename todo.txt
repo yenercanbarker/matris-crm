@@ -1,1 +1,31 @@
+Dashboard design.
+
+Users
+Pages
+Blogs
+Products
+Payments
+Contact Requests
+Settings
+
+--------------------------------------
+
 Cloudflare Turnstile
+https://github.com/ryangjchandler/laravel-cloudflare-turnstile
+
+Google OAuth Login
+https://laravel-news.com/connecting-laravel-socialite-with-google-client-php-library
+
+Mail gönderim yapısı ve her projede ortak olabilecek mail tipleri.
+
+Ödeme yöntemi entegrasyonları Paytr + Shopier
+
+Kur kodu güncelleyen otomatik yapı
+
+
+
+--------------------------------------
+
+Docs yazılacak
+config/app içinde gerekli olan veriler doldurulmalıdır.
+
